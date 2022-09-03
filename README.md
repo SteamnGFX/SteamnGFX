@@ -27,6 +27,6 @@
 I am a cross-platform software developer with different experiences,
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&locale=es" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es" width="40" height="40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&locale=es" width="40" height="40" />
 </a>
