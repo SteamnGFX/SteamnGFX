@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&layout=compact&locale=es&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&layout=compact&locale=es&hide=javascript,html,java,phyton,php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <H1>Hi, I'm SteamnGFX 👋</H1>
