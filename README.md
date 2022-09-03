@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=radical)
+<p style='auto'> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=radical) </p>
 
 <H1>Hi, I'm SteamnGFX 👋</H1>
 
