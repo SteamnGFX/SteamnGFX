@@ -1,4 +1,4 @@
-<H1>Hi, I'm SteamnGFX</H1>
+<H1>Hi, I'm SteamnGFX 👋</H1>
 
 <div>
    <p align="center"><b>My certifications</b></p>
@@ -23,4 +23,6 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamnGFX)](https://github.com/anuraghazra/github-readme-stats)
+
 I am a cross-platform software developer with different experiences,
