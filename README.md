@@ -1,4 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&layout=compact&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <H1>Hi, I'm SteamnGFX 👋</H1>
 
