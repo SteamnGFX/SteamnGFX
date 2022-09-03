@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es)
 
 <H1>Hi, I'm SteamnGFX 👋</H1>
 
