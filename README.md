@@ -26,4 +26,5 @@
 
 I am a cross-platform software developer with different experiences,
 
-<p dir="auto">https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs</p>
+<p dir="auto">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+</p>
