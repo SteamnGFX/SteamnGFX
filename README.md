@@ -6,7 +6,8 @@
 <img src='https://user-images.githubusercontent.com/51030210/188247567-252b0d4a-dd13-4306-b526-2e1076e6b7da.png' width="169" height="169" align="center">
 <img src='https://user-images.githubusercontent.com/51030210/188247577-43ab8be9-b52a-4c42-b701-45d53c4b8614.png' width="169" height="169" align="center">
 </div>
-<p align="left"> 
+<p align='center'>My skills specialize in</p>
+<p align="center"> 
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
