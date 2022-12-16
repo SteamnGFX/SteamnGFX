@@ -69,15 +69,16 @@
 <br>
 <hr>
 <h3 align="center">Contact</h3>
-<a href="https://www.instagram.com/SteamnGFX" target="_blank" rel="noreferrer"> <img
-    src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="php"
-    width="40" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/martinez-castro-angel-roberto-aa6b8b235/" target="_blank" rel="noreferrer"> <img
-    src="https://linkedinfacil.files.wordpress.com/2016/10/linkedin_circle-svg.png" alt="found me in linkedin"
-    width="40" height="40" />
-</a>
-<a href="mailto: angelroberto7777@gmail.com" target="_blank" rel="noreferrer"> <img
-    src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="send me email"
-    width="40" height="40" />
-</a>
+<p align="center">
+    <a href="https://www.instagram.com/SteamnGFX" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="php" width="40"
+            height="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/martinez-castro-angel-roberto-aa6b8b235/" target="_blank" rel="noreferrer">
+        <img src="https://linkedinfacil.files.wordpress.com/2016/10/linkedin_circle-svg.png" alt="found me in linkedin"
+            width="40" height="40" />
+    </a>
+    <a href="mailto: angelroberto7777@gmail.com" target="_blank" rel="noreferrer"> <img
+            src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="send me email" width="40" height="40" />
+    </a>
+</p>
