@@ -1,6 +1,6 @@
 <H2>Hi, I'm SteamnGFX 👋</H2>
 <hr>
-<p class="bg-danger"> I am a multiplatform java developer, which means that I have programmed applications for <b>Android</b>, <b>Web Applications</b> and <b>Desktop</b> with the use of relational databases, knowledge of networks. I like constant growth and solving problems with ingenious resolutions.</p>
+<p class="bg-danger"> I am a multiplatform java developer, which means that I have programmed applications for **Android**, <b>Web Applications</b> and <b>Desktop</b> with the use of relational databases, knowledge of networks. I like constant growth and solving problems with ingenious resolutions.</p>
 <br>
 <hr>
    <h3 align="center"><b>My certifications</b></h3>
@@ -11,7 +11,6 @@
    </p>
 <br>
 <hr>
-<br>
    <h3 align='center'><b>Tools and languages I use</b></h3>
       <p align="center"> 
          <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -27,7 +26,6 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
-
 <p>
    <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -36,6 +34,5 @@
    
  </p>
 <br>
-<hr>
-<br>      
+<hr>   
       <h3>Contact</h3>
