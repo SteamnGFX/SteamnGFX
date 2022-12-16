@@ -81,7 +81,4 @@
     <a href="mailto: angelroberto7777@gmail.com" target="_blank" rel="noreferrer"> <img
             src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="send me email" width="40" height="40" />
     </a>
-    <a href = "mailto:angelroberto7777@gmail.com?subject = Feedback&body = Message">
-        Send Feedback
-    </a>
 </p>
