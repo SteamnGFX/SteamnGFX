@@ -1,6 +1,6 @@
 <H2>Hi, I'm SteamnGFX 👋</H2>
 <hr>
-<p class="bg-danger"> I am a multiplatform java developer, which means that I have programmed applications for <b>Android</b>, <b>Web Applications</b> and <b>Desktop</b> with the use of relational databases, knowledge of networks. I like constant growth and solving problems with ingenious resolutions.</p>
+<p> I am a multiplatform java developer, which means that I have programmed applications for <b>Android</b>, <b>Web Applications</b> and <b>Desktop</b> with the use of relational databases, knowledge of networks. I like constant growth and solving problems with ingenious resolutions.</p>
 <br>
 <hr>
    <h3 align="center"><b>My certifications</b></h3>
@@ -35,5 +35,4 @@
  </p>
 <br>
 <hr>   
-      <h3 aling="center">Contact</h3>
-> test
+      <h3 align="center">Contact</h3>
