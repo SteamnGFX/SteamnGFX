@@ -35,5 +35,5 @@
  </p>
 <br>
 <hr>   
-      <h3>Contact</h3>
+      <h3 aling="center">Contact</h3>
 > test
