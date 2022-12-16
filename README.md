@@ -1,6 +1,7 @@
 <H1>Hi, I'm SteamnGFX 👋</H1>
 
 <p class="bg-danger"> I am a multiplatform java developer, which means that I have programmed applications for *android*, *web* and *desktop* with the use of relational databases, knowledge of networks. I like constant growth and solving problems with ingenious resolutions. </p>
+<br>
    <h3 align="center"><b>My certifications</b></h3>
    <p align="center">Some of the courses and certificates I have done</p>
    <p align="center"> 
