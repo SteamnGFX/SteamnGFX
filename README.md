@@ -29,11 +29,10 @@
    <p align="left">
       <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" style="width:50%; height: 100%"src="https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es"/>
-       </a>
-      </p>
-       <p align="right">
+      
       <img align="center"  style="width:50%; height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&locale=es" />
-  </p>
+   </a>
+ </p>
 <br>
 <br>
 
