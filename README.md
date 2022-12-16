@@ -9,8 +9,7 @@
    </p>
 </div>
 <hr>
-   <p align='center'><b>My skills specialize in</b></p>
-   <p align="center">I have carried out projects and gained skills in the following</p>
+   <p align='center'><b>Tools and languages I use</b></p>
       <p align="center"> 
          <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -35,6 +34,8 @@ I am a cross-platform software developer with different experiences,
 </p>
 <br>
 <br>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&locale=es" />
-</a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamnGFX&locale=es" />
+   </a>
+</p>
