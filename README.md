@@ -36,3 +36,6 @@
    
  </p>
 <br>
+<hr>
+<br>      
+      <h3>Contact</h3>
