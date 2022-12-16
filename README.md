@@ -25,11 +25,9 @@
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
-I am a cross-platform software developer with different experiences,
-
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es"/>
+     <img align="center" style="width:100%; height: 100% "src="https://github-readme-stats.vercel.app/api?username=SteamnGFX&show_icons=true&theme=tokyonight&locale=es"/>
    </a>
 </p>
 <br>
