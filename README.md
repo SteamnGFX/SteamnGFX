@@ -1,15 +1,13 @@
-<H2>Hi, I'm SteamnGFX 👋</H2>
+<H2>Hola, Soy Ángel Martïnez 👋</H2>
 <hr>
-<p> I am a multiplatform java developer, which means that I have programmed applications for <b>Android</b>,
-    <b>Web
-        Applications</b> and <b>Desktop</b> with the use of relational databases, knowledge of networks. I like
-    constant
-    growth and solving problems with ingenious resolutions.
+<p> Soy desarrollador java multiplataforma, lo que significa que he programado aplicaciones para <b>Android</b>,
+    <b>Aplicaciones WEB</b> y <b>Escritorio</b> con el uso de bases de datos relacionales y NoSQL, cuento con conocimientos de redes. Me gusta
+    estar en constante crecimiento y resolver problemas con resoluciones ingeniosas.
 </p>
 <br>
 <hr>
-<h3 align="center"><b>My certifications</b></h3>
-<p align="center">Some of the courses and certificates I have done</p>
+<h3 align="center"><b>Mis certificaciones</b></h3>
+<p align="center">Algunos de los cursos y certificaciones que he obtenido.</p>
 <p align="center">
     <img src='https://user-images.githubusercontent.com/51030210/188247567-252b0d4a-dd13-4306-b526-2e1076e6b7da.png'
         width="169" height="169" align="center">
@@ -18,7 +16,7 @@
 </p>
 <br>
 <hr>
-<h3 align='center'><b>Tools and languages I use</b></h3>
+<h3 align='center'><b>Herramientas y lenguajes que uso</b></h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -68,7 +66,7 @@
 </p>
 <br>
 <hr>
-<h3 align="center">Contact</h3>
+<h3 align="center">Contacto</h3>
 <p align="center">
     <a href="https://www.instagram.com/SteamnGFX" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="php" width="40"
