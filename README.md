@@ -1,4 +1,4 @@
-<H2>Hola, Soy Ángel Martïnez 👋</H2>
+<H2>Hola, Soy Ángel Martínez 👋</H2>
 <hr>
 <p> Soy desarrollador java multiplataforma, lo que significa que he programado aplicaciones para <b>Android</b>,
     <b>Aplicaciones WEB</b> y <b>Escritorio</b> con el uso de bases de datos relacionales y NoSQL, cuento con conocimientos de redes. Me gusta
