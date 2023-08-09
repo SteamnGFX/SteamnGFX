@@ -1,8 +1,7 @@
 <H2>Hola, Soy Ángel Martínez 👋</H2>
 <hr>
-<p> Soy desarrollador java multiplataforma, lo que significa que he programado aplicaciones para <b>Android</b>,
-    <b>Aplicaciones WEB</b> y <b>Escritorio</b> con el uso de bases de datos relacionales y NoSQL, cuento con conocimientos de redes. Me gusta
-    estar en constante crecimiento y resolver problemas con resoluciones ingeniosas.
+<p> 
+    ¡Bienvenidos a mi repositorio GitHub! Aquí encontrarás una muestra de mi trabajo como desarrollador Java multiplataforma, destacando mis habilidades en el desarrollo de aplicaciones para Android, aplicaciones web y de escritorio, así como mis conocimientos en bases de datos relacionales, NoSQL y redes. Mi pasión por la resolución creativa de problemas y mi enfoque en el crecimiento continuo me impulsan a crear soluciones ingeniosas y de alta calidad.
 </p>
 <br>
 <hr>
